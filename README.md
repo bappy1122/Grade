@@ -29,7 +29,7 @@
 <p align="center">
     <img src="images/brand.png" width="200px" />
     <br><br>
-    <small style="padding:10px;">Built with ❤︎ by <a href="https://rafat.me/">Rafat Hossain</a></small>
+    <small style="padding:10px;"></small>
     <br>
     <p align="center">
         <a href="mailto:sayhi@rafat.me" target="_blank"><img
@@ -54,5 +54,5 @@
 </p>
 
 <p align="center">
-    <small>For any queries, reach me at <a href="mailto:sayhi@rafat.me">sayhi@rafat.me</a></small>
+    <small>For any queries, reach me at <a href="mailto:bappyjafar@yahoo.com"></a></small>
 </p>
